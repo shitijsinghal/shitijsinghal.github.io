@@ -2,10 +2,10 @@ body {
 background-color: #000;
 }
 p {
-font-family:arial;
+font-family:Open Sans;
 color: #fff;
 text-align:center;
-font-size:2em;
+font-size:1em;
 }
 .banner img{
     max-width:80% !important;
