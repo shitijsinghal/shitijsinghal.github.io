@@ -6,7 +6,7 @@ font-size:1em;
 }
 
 #date, #time {
-    color: #e6e6e6;
+    color: #d8d8d8;
     font-weight: 300;
     font-size: 200%;
     text-align:center;
@@ -14,7 +14,15 @@ font-size:1em;
 
 p {
     font-weight: 300;
-    text-align:center;
+    text-align: center;
+}
+
+#list {
+    text-align: left;
+}
+
+ul{
+    list-style-type: circle;
 }
 
 .banner img{
