@@ -2,14 +2,19 @@ body {
 background-color: #000;
 font-family: 'Open Sans', sans-serif;
 color: #fff;
-text-align:center;
 font-size:1em;
 }
 
 #date, #time {
-    color: #222;
+    color: #d8d8d8;
     font-weight: 300;
     font-size: 200%;
+    text-align:center;
+}
+
+p {
+    font-weight: 300;
+    text-align:center;
 }
 
 .banner img{
