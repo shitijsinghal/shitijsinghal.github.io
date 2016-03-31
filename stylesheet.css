@@ -1,12 +1,16 @@
 body {
 background-color: #000;
-}
-p {
-font-family:Open Sans;
+font-family: 'Open Sans', sans-serif;
 color: #fff;
 text-align:center;
 font-size:1em;
 }
+
+#date, #time {
+    font-weight: 300;
+    font-size: 200%;
+}
+
 .banner img{
     max-width:80% !important;
     height:auto;
